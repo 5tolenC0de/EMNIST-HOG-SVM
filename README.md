@@ -23,3 +23,5 @@ from sklearn.metrics import classification_report, confusion_matrix, accuracy_sc
 #required file
 
 emnist-letters-train.csv
+
+download the zipfile in https://www.kaggle.com/datasets/crawford/emnist/data?select=emnist-letters-train.csv first and extract the file
